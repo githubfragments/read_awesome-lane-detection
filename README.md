@@ -39,7 +39,7 @@ Lane Detection
 
 [M^2-3DLaneNet: Multi-Modal 3D Lane Detection](https://arxiv.org/abs/2209.05996)
 
-[RCLane: Relay Chain Prediction for Lane Detection](https://arxiv.org/abs/2207.09399)  ECCV 2022
+[RCLane: Relay Chain Prediction for Lane Detection](https://arxiv.org/abs/2207.09399)  ECCV 2022 【ok, MindSpore开源】
 
 [PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark](https://arxiv.org/abs/2203.11089)  [github](https://github.com/OpenPerceptionX/PersFormer_3DLane)  [OpenLane Dataset](https://github.com/OpenPerceptionX/OpenLane)  ECCV 2022 Oral
 
