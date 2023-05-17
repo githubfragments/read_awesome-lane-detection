@@ -25,7 +25,9 @@ Lane Detection
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det)  CVPR 2023
 
-[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)
+[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane)  CVPR 2023
+
+[End to End Lane detection with One-to-Several Transformer](https://arxiv.org/abs/2305.00675)  [github](https://github.com/zkyseu/O2SFormer)
 
 ## 2022
 
