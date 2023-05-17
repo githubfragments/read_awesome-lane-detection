@@ -31,6 +31,7 @@ Lane Detection
 
 ## 2022
 【*】 Coarse-to-Fine Lane Boundary Extraction for Large-Scale HD Mapping, IV 2022
+
 [Repainting and Imitating Learning for Lane Detection](https://arxiv.org/abs/2210.05097)
 
 [WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels](https://arxiv.org/abs/2209.11523)
