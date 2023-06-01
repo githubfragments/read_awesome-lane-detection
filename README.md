@@ -30,7 +30,7 @@ Lane Detection
 [End to End Lane detection with One-to-Several Transformer](https://arxiv.org/abs/2305.00675)  [github](https://github.com/zkyseu/O2SFormer)
 
 ## 2022
-【*】 Coarse-to-Fine Lane Boundary Extraction for Large-Scale HD Mapping, IV 2022
+【*】 Coarse-to-Fine Lane Boundary Extraction for Large-Scale HD Mapping, IV 2022 【good，ok】
 
 [Repainting and Imitating Learning for Lane Detection](https://arxiv.org/abs/2210.05097)
 
