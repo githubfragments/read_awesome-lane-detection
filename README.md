@@ -88,7 +88,7 @@ Lane Detection
 
 [Structure Guided Lane Detection](https://arxiv.org/abs/2105.05403)  IJCAI 2021
 
-[CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003)
+[CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003) (开源)【检测一个点作为每条车道线的实例-->再用点所在的特征做卷积kernel(动态卷积)-->获取整体车道线的feature map-->每行是否存在车道线，每行的位置，以及offset】
 
 [Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT)  CVPR 2021
 
