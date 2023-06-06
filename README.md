@@ -20,7 +20,8 @@ Lane Detection
 [Datasets](#Datasets)
 
 # Paper
-
+## 2023 mine:
+CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
 ## 2023
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det)  CVPR 2023
@@ -60,7 +61,7 @@ Lane Detection
 
 [Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)  [Comma2k19 LD Dataset](https://www.kaggle.com/datasets/tkm2261/comma2k19-ld)  CVPR 2022
 
-[CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022
+[CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022 【将点序列作为参数，迭代优化。性能和实时性都不错】
 
 [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
 
