@@ -57,13 +57,13 @@ CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
 
 [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)  [Homepage](https://once-3dlanes.github.io/)  [github](https://github.com/once-3dlanes/once_3dlanes_benchmark)  [Dataset](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
 
-[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022 【keypoint-based方法。学习点到起点的偏移，从而将同一条线上的点关联。LFA：补充全局信息。】
+[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022 【keypoint-based方法。学习点到起点的偏移，从而将同一条线上的点关联。LFA：补充全局信息。问题：起点？】
 
 [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes)   [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
 
 [Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)  [Comma2k19 LD Dataset](https://www.kaggle.com/datasets/tkm2261/comma2k19-ld)  CVPR 2022
 
-[CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022 【将点序列作为参数，迭代优化。性能和实时性都不错】
+[CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022 【将点序列作为参数，迭代优化。性能和实时性都不错。问题：横着的线？】
 
 [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
 
