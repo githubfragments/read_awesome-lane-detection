@@ -91,7 +91,7 @@ CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
 
 [CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003) (开源)【检测一个点作为每条车道线的实例-->再用点所在的特征做卷积kernel(动态卷积)-->获取整体车道线的feature map-->每行是否存在车道线，每行的位置，以及offset】
 
-[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT)  CVPR 2021
+[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT)  CVPR 2021 【基于anchor的车道线检测，类似于line-CNN。对anchor points做attention后再pooling，包含anchor上的所有信息，再对pooling后的特征做分类，x offet回归和线的长度。】
 
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
