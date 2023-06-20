@@ -57,7 +57,7 @@ CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
 
 [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)  [Homepage](https://once-3dlanes.github.io/)  [github](https://github.com/once-3dlanes/once_3dlanes_benchmark)  [Dataset](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
 
-[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022
+[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022 【keypoint-based方法。学习点到起点的偏移，从而将同一条线上的点关联。LFA：补充全局信息。】
 
 [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes)   [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
 
