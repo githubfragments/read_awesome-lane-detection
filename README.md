@@ -26,7 +26,7 @@ CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
 
 [An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection](https://arxiv.org/abs/2306.04927)
 
-[BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det)  CVPR 2023
+[BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det)  CVPR 2023 【(1)虚拟相机 （2）pv2bev: vpn（mlp）（3）head: 关键点、offset、embedding、height】
 
 [Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane)  CVPR 2023
 
