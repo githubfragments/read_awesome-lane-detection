@@ -22,6 +22,10 @@ Lane Detection
 # Paper
 ## 2023 mine:
 CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
+### 3d lane
+1. https://zhuanlan.zhihu.com/p/602129062?utm_id=0
+2. Monocular 3D Lane Line Detection in Autonomous Driving — A Review
+   https://www.jianshu.com/p/1619230a9028
 ## 2023
 
 [An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection](https://arxiv.org/abs/2306.04927)
