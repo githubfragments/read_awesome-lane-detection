@@ -28,6 +28,8 @@ CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection
    https://www.jianshu.com/p/1619230a9028
 ## 2023
 
+[Decoupling the Curve Modeling and Pavement Regression for Lane Detection](https://arxiv.org/abs/2309.10533)
+
 [Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD)  ICCV 2023
 
 [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR)  ICCV 2023
